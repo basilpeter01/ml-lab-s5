@@ -1,4 +1,4 @@
-# Machine Learning Laboratory (Semester 5)
+# Machine Learning Lab-S5
 
 This repository contains lab exercises and implementations for the Semester 5 Machine Learning Lab coursework. The experiments cover supervised learning algorithms, gradient descent, normal equation, MLE, and MAP, regression variants, and classification models implemented in Python using Jupyter Notebooks.
 
